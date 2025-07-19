@@ -1,0 +1,15 @@
+streamlit
+blinker
+protobuf
+typing_extensions
+click
+langchain
+langchain_community
+langchain_core
+langchain-groq
+faiss-cpu
+pdfplumber
+langchain_ollama
+langchain_huggingface
+dotenv
+sentense_transformers
